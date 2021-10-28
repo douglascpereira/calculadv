@@ -1,7 +1,7 @@
 name: calculadv
 description: Um package Flutter que calcula o dígito verificador(DV) de um CPF.
-version: 1.0.0
-author: Douglas Cristiano Pereira
+giversion: 1.0.0
+author: Douglas Pereira
 homepage: https://github.com/douglascpereira/calculadv
 
 environment:
