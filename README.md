@@ -1,14 +1,7 @@
 # calculadv
 
-A new Flutter package project.
+Flutter package que Calcula o dígito verificador(DV) de um CPF.
 
-## Getting Started
+## Para que serve?
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+No seu projeto caso você necessite manipular um CPF e o não saiba o seu dígito verificador(DV) com esse package você pode obter esse DV facilmente chamando a rotina de calcular DV passando como parâmetro o CPF sem do DV, pois esse package contém o calculo necessário para descobrir um DV de CPF.
